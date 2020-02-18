@@ -1,7 +1,7 @@
 # 3rd solution on the "factoringNumber" exercise
 
 
-![snapshot](./recursion_function.png)
+![snapshot](./recursion_functio.png)
 
 Step 1. Create a variable result to store num
 
