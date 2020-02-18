@@ -1,1 +1,1 @@
-# factoringNumber
+# 3rd solution on the "factoringNumber" exercise
