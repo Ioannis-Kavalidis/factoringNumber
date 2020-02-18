@@ -1,7 +1,7 @@
 # 3rd solution on the "factoringNumber" exercise
 
 
-![snapshot](./recur.png)
+![snapshot](./recursion.png)
 
 Step 1. Create a variable result to store num
 
